@@ -20,7 +20,7 @@
       <div class="navbar-nav">
         <a class="nav-link active" aria-current="page" href="index.html">Home</a>
         <a class="nav-link" href="post.php">Post</a>
-        <a class="nav-link" href="post-result">Post Result</a>
+        <a class="nav-link" href="post-result.php">Post Result</a>
         <a class="nav-link" href="get.php">Get</a>
         <a class="nav-link" href="get-result.php">Get Result</a> 
       </div>
